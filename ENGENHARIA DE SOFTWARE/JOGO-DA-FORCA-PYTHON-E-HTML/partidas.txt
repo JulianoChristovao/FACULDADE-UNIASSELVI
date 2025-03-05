@@ -1,0 +1,16 @@
+Palavra misteriosa: _ _ R R _
+Letras consumidas: Q, W, R, Y, I, T, U
+Tentativas restantes: 0
+....___
+....|.....|
+...   ....|
+...   ....|
+...   ....|
+..........|
+.=========
+
+O jogo acabou!!!
+
+A palavra era: CARRO
+
+Voc� Perdeu!!!
